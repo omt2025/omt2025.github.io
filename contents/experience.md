@@ -1,21 +1,29 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **Machine Learning Specialist**  
+**October 2024 - Present | Outlier AI**  
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+Developed custom LLMs based on client needs. Identified and reproduced logic errors, wrote QA-style reports, and collaborated on model improvements.
 
 #### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+- Trained client-specific LLMs and vision-language models for reasoning and comprehension tasks.
+- Identified and reproduced model logic errors; wrote structured diagnostic reports for failure cases.
+- Designed evaluation protocols to assess accuracy and robustness; proposed targeted improvements.
+- Collaborated with engineers and researchers to iterate on model performance and alignment.
+
 
 ---
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+### **Software Engineer – Backend**  
+**June 2023 - May 2024 | Huarong Weiye Technology Co., Ltd**  
 
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+Developed scalable backend services using Flask and MySQL, focusing on secure user authentication, role-based access control, and employee management. Collaborated with frontend teams to build responsive interfaces using AJAX/JSON. Ensured deployment readiness through Docker containerization, CI integration, and comprehensive unit testing with Pytest.
+
+#### Key Contributions:  
+- Developed Flask-based RESTful APIs for user auth, attendance, and employee management.
+- Built and maintained MySQL schemas; optimized queries for performance and data integrity.
+- Implemented JWT-based session management and RBAC for secure access control.
+- Collaborated with frontend developers using AJAX/JSON; containerized services with Docker.
+- Wrote unit tests with pytest; integrated CI pipeline to ensure code quality and test coverage.
+
+
+
