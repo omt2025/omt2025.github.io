@@ -14,8 +14,8 @@ Software Engineer with 2+ years of hands-on experience in backend development, A
 • GPA: 3.34/4.0 
 
 #### Skill
-• Languages: Python, Java, C++, Rust, SQL, JavaScript, HTML5, CSS3
-• Frameworks/Tools: Flask, Django, Spring, Vue.js, Node.js, Bootstrap
-• Databases: MySQL, PostgreSQL, Oracle, SQLite
-• DevOps & Platforms: Git, GitHub, CI/CD, Docker, Linux, VS Code, PyCharm, IntelliJ IDEA
-• ML & Data: Machine Learning, Deep Learning, NLP, Computer Vision, Jupyter Notebook
+• Languages: Python, Java, C++, Rust, SQL, JavaScript, HTML5, CSS3  
+• Frameworks/Tools: Flask, Django, Spring, Vue.js, Node.js, Bootstrap  
+• Databases: MySQL, PostgreSQL, Oracle, SQLite  
+• DevOps & Platforms: Git, GitHub, CI/CD, Docker, Linux, VS Code, PyCharm, IntelliJ IDEA  
+• ML & Data: Machine Learning, Deep Learning, NLP, Computer Vision, Jupyter Notebook  
