@@ -1,3 +1,5 @@
-- 校级一等奖学金, 2022.  
+• Named to the Miami University fall 2020-21 President's list. Miami University students who are ranked in the top three percent of undergraduate students within each division for first semester 2020-21 have been named to the President's list recognizing academic excellence.
 
-- Outstanding Graduation Thesis, XXX University, 2023. 
+• Named to the dean's list at Miami University for the 2019-20 spring semester, who are ranked in the top twenty percent of undergraduate students within their division for second semester 2019-2020 have been named to the dean's list recognizing academic performance. 
+
+• Named to the dean's list at Miami University for the 2019 spring semester, who are ranked in the top twenty percent of undergraduate students within their division for second semester 2018-2019 have been named to the dean's list recognizing academic performance. 
