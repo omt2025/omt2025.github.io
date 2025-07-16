@@ -1,4 +1,4 @@
-[![Yan](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/omt2025)
+[![Yan](https://img.shields.io/badge/omt2025-github-blue?logo=github)](https://github.com/omt2025)
 
 Software Engineer with 2+ years of hands-on experience in backend development, AI/ML model deployment, and full-stack systems. Proficient in Python, Java, SQL, and modern web frameworks. Demonstrated success in building scalable APIs, fine-tuning large models, and optimizing CI/CD pipelines. Strong academic foundation in AI, database systems, and cybersecurity. Effective cross-functional collaborator with mentorship experience. U.S. Green Card holder, MS in Computer Science (2023).
 
